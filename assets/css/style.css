@@ -1,0 +1,132 @@
+body {
+	background: url(../images/Avengers-Wallpaper-003.jpg);
+	background-position: 0px 400px;
+	background-size: 100% 350%;
+}
+
+.container {
+	width: 80%;
+	position: absolute;
+	top: 580px;
+	left: 10%;
+	padding-bottom: 90px;
+}
+
+.jumbotron {
+    background: url(../images/avengers-character-poster-banner.jpeg);
+    background-size: cover;
+    height: 400px;
+    
+}
+
+.individual-gifs {
+	float: left;
+	margin: 10px;
+}
+
+.intro {
+	display: block;
+	background-color: #271416;
+	color: white;
+	font-family: 'Faster One', cursive;
+	font-weight: 300;
+	font-size: 30px;
+	letter-spacing: 1.5px;
+	text-align: center;
+	width: 100%;
+	position: absolute;
+	top: 400px;
+	padding: 30px;
+}
+
+.input-label {
+	font-size: 20px;
+	color: black;
+}
+
+.character-btn {
+	/* background-color: #D65947; */
+	background-color:navy;
+	border-radius: 5px;
+	border: none;
+	padding: 10px 15px 10px 15px;
+	margin: 5px;
+	color: white;
+}
+
+.character-btn:hover {
+	background-color: #7B2F2C;
+}
+
+.rating-text {
+	font-size: 20px;
+	color: black;
+	font-weight: bold;
+}
+
+
+#got-buttons {
+	width: 100%;
+	font-family: 'Oxygen', sans-serif;
+	font-weight: 400;
+	font-size: 15px;
+	letter-spacing: 2px;
+}
+
+#add-character {
+	background-color: #37B7BF;
+	border: none;
+	color: white;
+	margin-top: 14px;
+	padding: 10px;
+	font-size: 18px;
+	font-family: 'Oxygen', sans-serif;
+	font-weight: 700;
+	font-size: 16px;
+	letter-spacing: 1.5px;
+}
+
+#add-character:hover {
+	background-color: #375D75;
+}
+
+.rating {
+	font-family: 'Oxygen', sans-serif;
+	font-weight: 700;
+	font-size: 18px;
+	letter-spacing: 1px;
+}
+
+
+
+#title {
+	color: white;
+	text-align: center;
+	letter-spacing: 10px;
+	margin-top: 7%;
+	font-family: 'Lora', sans-serif;
+}
+
+#title-description {
+	color: white;
+	text-align: center;
+	font-family: 'Oxygen', sans-serif;
+	font-weight: 300;
+	letter-spacing: 1.5px;
+}
+
+#title-button {
+	text-align: center;
+	font-family: 'Oxygen', sans-serif;
+	font-weight: 700;
+	font-size: 16px;
+	letter-spacing: 1.5px;
+	position: relative;
+	left: 43%;
+	background-color: #37B7BF;
+	border: none;
+}
+
+#title-button:hover {
+	background-color: #375D75;
+}
