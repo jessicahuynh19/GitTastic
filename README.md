@@ -8,8 +8,7 @@ Enter a term into the search box. As you enter terms into the search box, button
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. 
 
 ### Live Link
-
-
+https://jessicahuynh19.github.io/GitTastic/
 ### Installing
 
 When you have accessed the repository page on GitHub, you may simply download a Zip file and extract it to a directory of your choosing. Alternatively, you may download the data directly to your device via GitBash or Terminal if you have an SSH key. More on adding an SSH key can be found here: https://help.github.com/en/enterprise/2.15/user/articles/adding-a-new-ssh-key-to-your-github-account
